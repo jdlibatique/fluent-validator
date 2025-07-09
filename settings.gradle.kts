@@ -1,1 +1,1 @@
-rootProject.name = "validation-utils"
+rootProject.name = "fluent-validator"
