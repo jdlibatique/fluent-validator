@@ -1,4 +1,4 @@
-package utils;
+package io.github.jdlibatique.fluentvalidator.core;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 import org.junit.jupiter.api.Test;
-import shared.exception.ValidationException;
+import io.github.jdlibatique.fluentvalidator.exception.ValidationException;
 
 /**
  * @author Joseph Devereaux Libatique

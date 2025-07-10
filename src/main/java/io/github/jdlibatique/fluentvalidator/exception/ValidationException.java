@@ -1,4 +1,4 @@
-package shared.exception;
+package io.github.jdlibatique.fluentvalidator.exception;
 
 import java.io.Serial;
 import java.util.List;
