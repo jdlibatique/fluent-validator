@@ -1,4 +1,4 @@
-package core;
+package io.github.jdlibatique.fluentvalidator.core;
 
 import java.lang.reflect.Array;
 import java.math.BigDecimal;
@@ -10,7 +10,7 @@ import java.util.Optional;
 import java.util.function.BooleanSupplier;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
-import exception.ValidationException;
+import io.github.jdlibatique.fluentvalidator.exception.ValidationException;
 
 /**
  * A fluent validation utility class that provides a comprehensive set of validation methods for
