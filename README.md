@@ -125,6 +125,7 @@ This class is **NOT thread-safe**. Create separate instances per thread or per v
 ---
 
 ## License
+This project is licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ---
 
