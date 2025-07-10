@@ -4,6 +4,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
 import static org.assertj.core.api.Assertions.assertThatNoException;
 
+import core.FluentValidator;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -11,7 +12,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 import org.junit.jupiter.api.Test;
-import shared.exception.ValidationException;
+import exception.ValidationException;
 
 /**
  * @author Joseph Devereaux Libatique

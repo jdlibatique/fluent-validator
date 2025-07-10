@@ -1,4 +1,4 @@
-package shared.exception;
+package exception;
 
 import java.io.Serial;
 import java.util.List;
